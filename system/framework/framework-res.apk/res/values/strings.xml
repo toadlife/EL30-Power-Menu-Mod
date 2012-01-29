@@ -1341,4 +1341,9 @@ Buy a new USIM card, please."</string>
     <string name="wimax_wifi_warning2">4G will turn off when Wi-Fi is connected. Continue?</string>
     <string name="wimax_connected">4G network connected</string>
     <string name="wimax_disconnected">4G network disconnected</string>
+    <string name="reboot">Reboot</string>
+    <string name="reboot_recovery">CWM Recovery</string>
+    <string name="reboot_download">Download Mode</string>
+    <string name="reboot_progress">Rebooting…</string>
+    <string name="reboot_confirm">Your phone will reboot.</string>
 </resources>

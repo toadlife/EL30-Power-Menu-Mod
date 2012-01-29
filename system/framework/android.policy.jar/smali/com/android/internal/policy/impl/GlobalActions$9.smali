@@ -1,4 +1,4 @@
-.class Lcom/android/internal/policy/impl/GlobalActions$4;
+.class Lcom/android/internal/policy/impl/GlobalActions$9;
 .super Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;
 .source "GlobalActions.java"
 
@@ -27,7 +27,7 @@
 
     .prologue
     .line 233
-    iput-object p1, p0, Lcom/android/internal/policy/impl/GlobalActions$4;->this$0:Lcom/android/internal/policy/impl/GlobalActions;
+    iput-object p1, p0, Lcom/android/internal/policy/impl/GlobalActions$9;->this$0:Lcom/android/internal/policy/impl/GlobalActions;
 
     invoke-direct {p0, p2, p3}, Lcom/android/internal/policy/impl/GlobalActions$SinglePressAction;-><init>(II)V
 
@@ -41,7 +41,7 @@
 
     .prologue
     .line 238
-    iget-object v0, p0, Lcom/android/internal/policy/impl/GlobalActions$4;->this$0:Lcom/android/internal/policy/impl/GlobalActions;
+    iget-object v0, p0, Lcom/android/internal/policy/impl/GlobalActions$9;->this$0:Lcom/android/internal/policy/impl/GlobalActions;
 
     #getter for: Lcom/android/internal/policy/impl/GlobalActions;->mContext:Landroid/content/Context;
     invoke-static {v0}, Lcom/android/internal/policy/impl/GlobalActions;->access$000(Lcom/android/internal/policy/impl/GlobalActions;)Landroid/content/Context;
@@ -50,7 +50,7 @@
 
     const/4 v1, 0x1
 
-    const/4 p0, 0x0
+    const/4 p0, 0x2
 
     sput p0, Lcom/android/internal/app/ShutdownThread;->mReboot:I
 
