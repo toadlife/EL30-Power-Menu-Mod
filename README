@@ -1,0 +1,15 @@
+This is the Power Menu Mod the Sammsung Epic 4G EL30 ROM
+
+It adds reboot and reboot to recovery to the power menu. It based on an excellent
+guide by xda-developers.com user untermensch for the Samsung Vibrant.
+
+See the commits on the original EI22 port for details on bugfixes and enhancements
+to the original mod.
+
+Original EI22 Port can be found here:
+https://github.com/toadlife/EI22-Power-Menu-Mod
+
+Credits:
+
+* untermensch  - Original guide for the Samsung Vibrant
+* toadlife - Original port to the Epic (EI22) plus fixes and enhancements.
